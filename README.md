@@ -4,7 +4,7 @@ A modern, feature-rich spreadsheet application built with React, TypeScript, and
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://dynamic-madeleine-27f763.netlify.app)**
+**[View Live Application](https://react-spreadsheet-project.netlify.app/)**
 
 *The main interface showing the spreadsheet with job requests, status tracking, and user assignments*
 
@@ -152,7 +152,7 @@ interface SpreadsheetRow {
 
 The application is deployed on Netlify with automatic deployments from the main branch.
 
-**Live URL**: [https://dynamic-madeleine-27f763.netlify.app](https://dynamic-madeleine-27f763.netlify.app)
+**Live URL**: [https://dynamic-madeleine-27f763.netlify.app](https://react-spreadsheet-project.netlify.app/)
 
 ### Deploy Your Own
 
