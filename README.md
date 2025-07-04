@@ -6,11 +6,6 @@ A modern, feature-rich spreadsheet application built with React, TypeScript, and
 
 **[View Live Application](https://dynamic-madeleine-27f763.netlify.app)**
 
-## 📸 Screenshots
-
-### Main Spreadsheet Interface
-![Spreadsheet Interface](https://dynamic-madeleine-27f763.netlify.app/screenshot-main.png)
-
 *The main interface showing the spreadsheet with job requests, status tracking, and user assignments*
 
 ### Features Overview
