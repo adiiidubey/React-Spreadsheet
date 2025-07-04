@@ -152,7 +152,7 @@ interface SpreadsheetRow {
 
 The application is deployed on Netlify with automatic deployments from the main branch.
 
-**Live URL**: [https://dynamic-madeleine-27f763.netlify.app](https://react-spreadsheet-project.netlify.app)
+**Live URL**: [https://react-spreadsheet-project.netlify.app](https://react-spreadsheet-project.netlify.app)
 
 ### Deploy Your Own
 
